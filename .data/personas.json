@@ -1,0 +1,181 @@
+[
+  {
+    "name": "Daniel Ramos",
+    "role": "Senior Full-Stack Architect",
+    "archetype": "Anti-Persona",
+    "avatarEmoji": "⛔",
+    "summary": "Daniel Ramos is a Senior Full-Stack Architect in B2B SaaS Engineering Teams. They struggle with fragmentation and lack of visibility, and are actively looking for Autonomous pair programming with deep context awareness to elevate team velocity.",
+    "demographics": {
+      "experienceLevel": "Senior",
+      "companySize": "50-500 employees",
+      "industry": "Developer Tools & SaaS",
+      "location": "Hybrid / Remote"
+    },
+    "goals": [
+      "Eliminate manual friction when orchestrating Persona Studio with AI proposal engine",
+      "Improve cross-team collaboration across Antigravity Studio",
+      "Measure clear ROI and time saved on a weekly basis"
+    ],
+    "painPoints": [
+      "Existing processes feel disjointed and disconnected from actual product context",
+      "Context loss between discovery, documentation, and engineering execution",
+      "Lack of modern AI tooling that understands our unique domain requirements"
+    ],
+    "motivations": [
+      "Delivering customer impact faster without burning out teammates",
+      "Consolidating fragmented toolchains into intuitive unified systems",
+      "Automating routine synthesis so time can be spent on high-leverage decisions"
+    ],
+    "fearsAndRisks": [
+      "Steep learning curve causing team churn or tool abandonment",
+      "Security and data privacy concerns with third-party systems"
+    ],
+    "typicalDay": "Starts by checking daily milestones and team blockers, conducts priority reviews, evaluates feature impact, and collaborates with stakeholders on strategic initiatives.",
+    "keyTools": [
+      "Linear",
+      "Cursor",
+      "Jira Product Discovery"
+    ],
+    "decisionCriteria": [
+      "Immediate time-to-value with zero setup overhead",
+      "Clean, exportable assets for leadership and engineering",
+      "Cost transparency and reliable security defaults"
+    ],
+    "quotes": [
+      "\"We need tools that adapt to how our product operates, not another rigid spreadsheet.\"",
+      "\"Show me clarity and speed, and our entire organization will get behind it.\""
+    ],
+    "tags": [
+      "Anti-Persona",
+      "Developer",
+      "AI-Proposed"
+    ],
+    "status": "active",
+    "id": "persona-1791632579875-snfi",
+    "version": 1,
+    "createdAt": "2026-10-10T11:42:59.875Z",
+    "updatedAt": "2026-10-10T11:42:59.875Z"
+  },
+  {
+    "id": "persona-1",
+    "productId": "prod-default",
+    "name": "Priya Sharma",
+    "role": "Lead Technical Product Manager",
+    "archetype": "Primary User",
+    "avatarEmoji": "🎯",
+    "summary": "A fast-paced product leader who orchestrates cross-functional roadmaps, translates user interviews into engineering specs, and needs quick persona validation before sprints.",
+    "demographics": {
+      "ageRange": "28-36",
+      "experienceLevel": "Senior",
+      "companySize": "50-250 employees",
+      "industry": "Cloud Software / B2B",
+      "location": "San Francisco, CA (Hybrid)"
+    },
+    "goals": [
+      "Bridge the gap between customer discovery interviews and engineering backlog items",
+      "Ensure every sprint feature directly addresses a verified user pain point",
+      "Keep personas up-to-date as the product expands to new market segments"
+    ],
+    "painPoints": [
+      "Personas created during quarterly planning quickly become stale and ignored",
+      "Engineers frequently ask \"who are we building this for?\" without a centralized single source of truth",
+      "Spending too much time manually writing persona documents in Notion/Slides"
+    ],
+    "motivations": [
+      "High product adoption and low churn",
+      "Shipping features with clear user empathy",
+      "Autonomous tooling that frees up strategic thinking time"
+    ],
+    "fearsAndRisks": [
+      "Building the wrong features that miss market need",
+      "Complex tools that team members abandon after two weeks"
+    ],
+    "typicalDay": "Starts with reviewing user analytics and support tickets, conducts customer interviews mid-day, syncs with tech leads, and refines feature user stories in the late afternoon.",
+    "keyTools": [
+      "Linear",
+      "Figma",
+      "Slack",
+      "Notion",
+      "Mixpanel",
+      "PostHog"
+    ],
+    "decisionCriteria": [
+      "Fast onboarding with low setup time",
+      "Seamless AI proposals that feel accurate rather than generic",
+      "Clean export options to share with executive leadership"
+    ],
+    "quotes": [
+      "If our engineers cannot picture the user in 10 seconds, the user story has failed.",
+      "I need dynamic personas that evolve with our product releases, not static PDF snapshots."
+    ],
+    "tags": [
+      "Core Team",
+      "High Influence",
+      "Daily Active"
+    ],
+    "version": 1,
+    "status": "active",
+    "createdAt": "2026-10-03T11:34:51.738Z",
+    "updatedAt": "2026-10-10T11:34:51.738Z"
+  },
+  {
+    "id": "persona-2",
+    "productId": "prod-default",
+    "name": "Marcus Vance",
+    "role": "VP of Product & Engineering",
+    "archetype": "Buyer / Decision Maker",
+    "avatarEmoji": "💼",
+    "summary": "An executive buyer focused on team velocity, ROI, developer retention, and maintaining architectural rigor across 5 squads.",
+    "demographics": {
+      "ageRange": "40-52",
+      "experienceLevel": "Executive",
+      "companySize": "150-1000 employees",
+      "industry": "Enterprise Software",
+      "location": "New York, NY"
+    },
+    "goals": [
+      "Accelerate sprint velocity while reducing wasted engineering rework",
+      "Ensure cross-functional alignment between Product and Engineering",
+      "Maintain clear governance and compliance for software tools"
+    ],
+    "painPoints": [
+      "Siloed teams building redundant solutions or misaligned features",
+      "Tool fatigue and uncontrolled SaaS seat spend",
+      "Lack of visibility into how customer feedback influences product roadmap"
+    ],
+    "motivations": [
+      "Measurable engineering throughput increase",
+      "High team morale and reduced developer context switching",
+      "Predictable release milestones"
+    ],
+    "fearsAndRisks": [
+      "Security risks or leakage of proprietary product data",
+      "Expensive enterprise licenses that teams fail to adopt"
+    ],
+    "typicalDay": "Exec reviews, budget planning, roadmap prioritization meetings with C-suite, unblocking team roadblocks, and vendor evaluations.",
+    "keyTools": [
+      "Jira Enterprise",
+      "Google Workspace",
+      "Datadog",
+      "GitHub Enterprise"
+    ],
+    "decisionCriteria": [
+      "Security compliance (SOC2, private workspace data)",
+      "High ROI with clear team time savings",
+      "Easy integration with existing stack"
+    ],
+    "quotes": [
+      "Show me how this saves 5 hours per week per engineer, and you have my approval.",
+      "We cannot afford to waste a 6-week cycle on features nobody asked for."
+    ],
+    "tags": [
+      "Executive",
+      "Budget Holder",
+      "Decision Maker"
+    ],
+    "version": 1,
+    "status": "active",
+    "createdAt": "2026-10-05T11:34:51.738Z",
+    "updatedAt": "2026-10-10T11:34:51.738Z"
+  }
+]

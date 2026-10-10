@@ -1,0 +1,66 @@
+[
+  {
+    "personaId": "persona-1791632579875-snfi",
+    "version": 1,
+    "changeSummary": "Initial persona created",
+    "snapshot": {
+      "name": "Daniel Ramos",
+      "role": "Senior Full-Stack Architect",
+      "archetype": "Anti-Persona",
+      "avatarEmoji": "⛔",
+      "summary": "Daniel Ramos is a Senior Full-Stack Architect in B2B SaaS Engineering Teams. They struggle with fragmentation and lack of visibility, and are actively looking for Autonomous pair programming with deep context awareness to elevate team velocity.",
+      "demographics": {
+        "experienceLevel": "Senior",
+        "companySize": "50-500 employees",
+        "industry": "Developer Tools & SaaS",
+        "location": "Hybrid / Remote"
+      },
+      "goals": [
+        "Eliminate manual friction when orchestrating Persona Studio with AI proposal engine",
+        "Improve cross-team collaboration across Antigravity Studio",
+        "Measure clear ROI and time saved on a weekly basis"
+      ],
+      "painPoints": [
+        "Existing processes feel disjointed and disconnected from actual product context",
+        "Context loss between discovery, documentation, and engineering execution",
+        "Lack of modern AI tooling that understands our unique domain requirements"
+      ],
+      "motivations": [
+        "Delivering customer impact faster without burning out teammates",
+        "Consolidating fragmented toolchains into intuitive unified systems",
+        "Automating routine synthesis so time can be spent on high-leverage decisions"
+      ],
+      "fearsAndRisks": [
+        "Steep learning curve causing team churn or tool abandonment",
+        "Security and data privacy concerns with third-party systems"
+      ],
+      "typicalDay": "Starts by checking daily milestones and team blockers, conducts priority reviews, evaluates feature impact, and collaborates with stakeholders on strategic initiatives.",
+      "keyTools": [
+        "Linear",
+        "Cursor",
+        "Jira Product Discovery"
+      ],
+      "decisionCriteria": [
+        "Immediate time-to-value with zero setup overhead",
+        "Clean, exportable assets for leadership and engineering",
+        "Cost transparency and reliable security defaults"
+      ],
+      "quotes": [
+        "\"We need tools that adapt to how our product operates, not another rigid spreadsheet.\"",
+        "\"Show me clarity and speed, and our entire organization will get behind it.\""
+      ],
+      "tags": [
+        "Anti-Persona",
+        "Developer",
+        "AI-Proposed"
+      ],
+      "status": "active",
+      "id": "persona-1791632579875-snfi",
+      "version": 1,
+      "createdAt": "2026-10-10T11:42:59.875Z",
+      "updatedAt": "2026-10-10T11:42:59.875Z"
+    },
+    "id": "rev-1791632579965-58wz",
+    "timestamp": "2026-10-10T11:42:59.965Z"
+  }
+]

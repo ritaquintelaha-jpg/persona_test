@@ -1,0 +1,30 @@
+{
+  "id": "prod-default",
+  "name": "Antigravity Studio",
+  "tagline": "Autonomous AI-Powered Product Intelligence and Agentic Development",
+  "description": "An AI-native developer and product management platform that unifies persona mapping, automated feature discovery, and full-stack agentic coding workflows to accelerate modern software engineering teams.",
+  "industry": "Developer Tools & SaaS",
+  "targetMarket": [
+    "B2B SaaS Engineering Teams",
+    "Technical Product Managers",
+    "Startup Founders & Solopreneurs",
+    "Enterprise Platform & DevOps Engineers"
+  ],
+  "coreValueProps": [
+    "Autonomous pair programming with deep context awareness",
+    "Live persona generation grounded in real product telemetry and feature specs",
+    "Zero-friction iteration between product vision and working code"
+  ],
+  "keyFeatures": [
+    "Persona Studio with AI proposal engine",
+    "Contextual agentic coding and test execution",
+    "Automated changelog and release impact analysis"
+  ],
+  "competitors": [
+    "Linear",
+    "Cursor",
+    "Jira Product Discovery",
+    "Productboard"
+  ],
+  "updatedAt": "2026-10-10T11:34:52.066Z"
+}
